@@ -1,11 +1,15 @@
+# 0.2.0
+
+ - Upgrade kubectl to 1.6.3
+
 # 0.1.0
 
  - Upgrade kubectl to 1.3.6
- 
+
 # 0.0.9
 
  - NAMESPACE bugfixes
- 
+
 # 0.0.8
 
  - NAMESPACE env var support added
